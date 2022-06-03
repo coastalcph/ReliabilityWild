@@ -2,6 +2,19 @@
 
 This repository contains the code for the paper `Evaluating Deep Taylor Decomposition for Reliability Assessment in the Wild` which was presented at ICWSM 2022.  
 
+```
+@article{Brandl_Hershcovich_Søgaard_2022, 
+    title={Evaluating Deep Taylor Decomposition for Reliability Assessment in the Wild}, 
+    volume={16}, url={https://ojs.aaai.org/index.php/ICWSM/article/view/19389}, 
+    number={1}, 
+    journal={Proceedings of the International AAAI Conference on Web and Social Media}, 
+    author={Brandl, Stephanie and Hershcovich, Daniel and Søgaard, Anders}, 
+    year={2022}, 
+    month={May}, 
+    pages={1368-1372} 
+}
+```
+
 ### Dataset  
 You can find the journalists' annotations from all 3 conditions in `./data/annotations_exp{condition}`.  
 `exp0` refers to the condition where model confidence and feature attribution was shown  
